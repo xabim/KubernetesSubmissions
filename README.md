@@ -7,3 +7,4 @@ Each exercise link points to the release tagged with the exercise number, at the
 ## Chapter 2
 
 - [1.1.](https://github.com/xabim/KubernetesSubmissions/tree/1.1/log_output)
+- [1.2.](https://github.com/xabim/KubernetesSubmissions/tree/1.2/todo_app)
