@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: todo-app
-          image: xabim1/todo-app:1.5
+          image: xabim1/todo-app:1.6
           env:
             - name: PORT
               value: "3000"
