@@ -12,3 +12,4 @@ Each exercise link points to the release tagged with the exercise number, at the
 - [1.4.](https://github.com/xabim/KubernetesSubmissions/tree/1.4/todo_app)
 - [1.5.](https://github.com/xabim/KubernetesSubmissions/tree/1.5/todo_app)
 - [1.6.](https://github.com/xabim/KubernetesSubmissions/tree/1.6/todo_app)
+- [1.7.](https://github.com/xabim/KubernetesSubmissions/tree/1.7/log_output)
