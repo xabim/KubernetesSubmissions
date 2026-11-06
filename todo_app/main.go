@@ -14,7 +14,8 @@ func main() {
 	}
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		fmt.Fprintln(w, "todo app")
+		w.Header().Set("Content-Type", "text/html; charset=utf-8")
+		fmt.Fprintln(w, "<h1>todo app</h1><p>Server running on port "+port+"</p>")
 	})
 
 	fmt.Printf("Server started in port %s\n", port)
